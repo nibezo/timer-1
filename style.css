@@ -1,0 +1,17 @@
+* {
+    font-size: 50px;
+}
+ body {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+ }
+
+ button {
+    background-color:bisque;
+    color:aliceblue
+ }
+ p {
+    font-size: 90px;
+ }
+
